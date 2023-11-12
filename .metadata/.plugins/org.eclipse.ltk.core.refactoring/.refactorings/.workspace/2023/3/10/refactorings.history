@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Renommer le projet Java &apos;Laboratoire3&apos; en &apos;Laboratoire3test&apos;&#x0D;&#x0A;- Elément d&apos;origine : &apos;Laboratoire3&apos;&#x0D;&#x0A;- Elément renommé : &apos;Laboratoire3&apos;&#x0D;&#x0A;- Mettre à jour les références d&apos;un élément restructuré" description="Renommer le projet Java &apos;Laboratoire3&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Laboratoire3" name="Laboratoire3test" references="true" stamp="1678124622555" version="1.0"/>
+</session>
